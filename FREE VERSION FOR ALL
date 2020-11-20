@@ -442,3 +442,202 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_BabyTV
+http://streamer1.furrera.ps:80/OSN_BabyTV/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DisneyXD
+http://streamer1.furrera.ps:80/OSN_DisneyXD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_Disney
+http://streamer1.furrera.ps:80/OSN_Disney/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSNMoviesKids
+http://streamer1.furrera.ps:80/OSNMoviesKids/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DJCema
+http://streamer1.furrera.ps:80/OSN_DJCema/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_NickJr
+http://streamer1.furrera.ps:80/OSN_NickJr/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NickToons
+http://streamer1.furrera.ps:80/NickToons/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_History2HD
+http://streamer1.furrera.ps:80/OSN_History2HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_HistoryHD
+http://streamer1.furrera.ps:80/OSN_HistoryHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSNMoviesDisney
+http://streamer1.furrera.ps:80/OSNMoviesDisney/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NickelodeonHD
+http://streamer1.furrera.ps:80/NickelodeonHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DiscoveryScience
+http://streamer1.furrera.ps:80/OSN_DiscoveryScience/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",almajd
+http://streamer1.furrera.ps:80/almajd/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",TLCHD
+http://streamer1.furrera.ps:80/TLCHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",StarMoviesHD
+http://streamer1.furrera.ps:80/StarMoviesHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaCinema1
+http://streamer1.furrera.ps:80/AlphaCinema1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaCinema2
+http://streamer1.furrera.ps:80/AlphaCinema2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",ARTAflam1
+http://streamer1.furrera.ps:80/ARTAflam1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",ARTAflam2
+http://streamer1.furrera.ps:80/ARTAflam2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaAlsafwa
+http://streamer1.furrera.ps:80/AlphaAlsafwa/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaAlyawmHD
+http://streamer1.furrera.ps:80/AlphaAlyawmHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",KSASPORTS1HD
+http://streamer1.furrera.ps:80/KSASPORTS1HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",KSASPORTS2HD
+http://streamer1.furrera.ps:80/KSASPORTS2HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_NatGeoHD
+http://streamer1.furrera.ps:80/OSN_NatGeoHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NatGeoWildHD
+http://streamer1.furrera.ps:80/NatGeoWildHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DiscoveryScience
+http://streamer1.furrera.ps:80/OSN_DiscoveryScience/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlPrinceDrama
+http://streamer1.furrera.ps:80/AlPrinceDrama/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNMovies" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMovies
+http://streamer1.furrera.ps:80/OSNMovies/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesFirst
+http://streamer1.furrera.ps:80/OSNMoviesFirst/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesFirst2
+http://streamer1.furrera.ps:80/OSNMoviesFirst2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesAction" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesAction
+http://streamer1.furrera.ps:80/OSNMoviesAction/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSN_Enigma" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSN_Enigma
+http://streamer1.furrera.ps:80/OSN_Enigma/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNSeriesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNSeriesFirst
+http://streamer1.furrera.ps:80/OSNSeriesFirst/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNSeriesCom" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNSeriesCom
+http://streamer1.furrera.ps:80/OSNSeriesCom/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNYaHala" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYaHala
+http://streamer1.furrera.ps:80/OSNYaHala/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNYahalaOula" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYahalaOula
+http://streamer1.furrera.ps:80/OSNYahalaOula/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSNYHCinema" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYHCinema
+http://streamer1.furrera.ps:80/OSNYHCinema/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AlphaMusalsalat+2HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaMusalsalat+2HD
+http://streamer1.furrera.ps:80/AlphaMusalsalat+2HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AlphaSeriesHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaSeriesHD
+http://streamer1.furrera.ps:80/AlphaSeriesHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AlphaAlyawmHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaAlyawmHD
+http://streamer1.furrera.ps:80/AlphaAlyawmHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AlphaAlsafwa" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaAlsafwa
+http://streamer1.furrera.ps:80/AlphaAlsafwa/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
+http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAHALA ALOULA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN AL YAHALA ALOULA
+http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE HD
+http://dx3.gcdn.co/OSNWWE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE1 HD
+http://dx3.gcdn.co/OSNWWE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ANIMAL PLANET HD
+http://digitalxpress.gcdn.co/live1/OSNANIMALPLANET/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Aflam 1
+http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Aflam 2
+http://digitalxpress.gcdn.co/live1/artaflam2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Cinema
+http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies FIRST HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies FIRST HD
+http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies HD
+http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",wwe
+http://digitalxpress2.gcdn.co/live1/wwe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",boxnationuk
+http://digitalxpress2.gcdn.co/live1/boxnationuk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",UFC
+http://dx4.gcdn.co/UK329/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",espn
+http://digitalxpress2.gcdn.co/live1/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",espn2
+http://digitalxpress2.gcdn.co/live1/espn2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",cbssn
+http://digitalxpress2.gcdn.co/live1/cbssn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",foxsports1
+http://digitalxpress2.gcdn.co/live1/foxsports1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",foxsports2
+http://digitalxpress2.gcdn.co/live1/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",nbcsports
+http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",jtennis
+http://digitalxpress2.gcdn.co/live1/jtennis/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",jgolf
+http://digitalxpress2.gcdn.co/live1/jgolf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",nbatv
+http://digitalxpress2.gcdn.co/live1/nbatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn1
+http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn2
+http://digitalxpress2.gcdn.co/live1/tsn22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn3
+http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn4
+http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn5
+http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",mavtv
+http://digitalxpress2.gcdn.co/live1/mavtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",eurosport1
+http://digitalxpress2.gcdn.co/live1/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",eurosport2
+http://digitalxpress2.gcdn.co/live1/eurosport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv1
+http://digitalxpress2.gcdn.co/live1/sporttv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv2
+http://digitalxpress2.gcdn.co/live1/sporttv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv3
+http://digitalxpress2.gcdn.co/live1/sporttv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv4
+http://digitalxpress2.gcdn.co/live1/sporttv4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv5
+http://digitalxpress2.gcdn.co/live1/sporttv5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sportingtv
+http://digitalxpress2.gcdn.co/live1/sportingtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsat
+http://digitalxpress.gcdn.co/live1/polsat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsat2
+http://digitalxpress.gcdn.co/live1/polsat2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatplay
+http://digitalxpress.gcdn.co/live1/polsatplay/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatnews
+http://digitalxpress.gcdn.co/live1/polsatnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatcafe
+http://digitalxpress.gcdn.co/live1/polsatcafe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsport
+http://digitalxpress.gcdn.co/live1/polsatsport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportextra
+http://digitalxpress.gcdn.co/live1/polsatsportextra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tvpsport
+http://digitalxpress.gcdn.co/live1/tvpsport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",canal+sport2
+http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium1
+http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium2
+http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
