@@ -170,7 +170,8 @@ https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF:-1,MAHA MOVIE
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold" tvg-logo="" ,Star Gold
+https://ccntv.anytv.live/stargold/index.m3u8
 #EXTINF:-1,Bollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 
@@ -192,6 +193,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index_dvr.m3u8
 
 
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Flix" tvg-logo="" ,And Flix
+https://ccntv.anytv.live/flix/index.m3u8
 #EXTINF:-1,Movies now
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1,MNX
@@ -232,8 +235,10 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 ,sony sab HD vip
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" ,Star Plus
+https://ccntv.anytv.live/starplus/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tv" tvg-logo="" ,Zee Tv
+https://ccntv.anytv.live/zeetv/index.m3u8
 
 
 #EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="SPORTS",FOX SPORTS 1
@@ -241,6 +246,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 
 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" ,Star Sports 2
+https://ccntv.anytv.live/starsp2/index.m3u8
 #EXTINF:0,Fox Sports 2 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0,Fox Sports 3 Asia
