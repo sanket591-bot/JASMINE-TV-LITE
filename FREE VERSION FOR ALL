@@ -9,7 +9,15 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20191218/ourmid/pngtree-cricket-bat-stump-bails-ball-psd-png-image_2091269.jpg" group-title="INDIA VS AUSTRALIA CRICKET LIVE",LINE 1
 https://bit.ly/375gwXW
 
-
+#EXTINF:-1 tvg-id="Fox_Cricket" tvg-name="Fox Cricket"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest/scale-to-width-down/340?cb=20180916123020",Fox Cricket
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://85.203.33.15:25461/GG3R15rlPW/ZOHnfpIDcV/191813?play_token=p733W6Vw0Q&token=ShdcBRFREglDAQcHWwpYB1dVAFMKAAEFBQdcUFEHCFNUAlBSAF8JVgRGHxERR0tSUF5mClwbCQVWVwoCAU4bRUJQRjsLXRIJQ1ABC1YEChUdEU0KVVwRDVdTCQcDUwoDAw0YRhJQVBFbRgIBVgYNFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCgYGABtPGlpcQggRS0wVWBt5fxcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUACCwMAChse
+#EXTINF:-1 tvg-id="S_Cricket" tvg-name="S Cricket"  tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://tivimateplaylists.live/scricketnn
+#EXTINF:-1 tvg-id="BeIN_13" tvg-name="BeIN 13"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png",BeIN 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://tivimateplaylists.live/bein13-newn
 
 
 
