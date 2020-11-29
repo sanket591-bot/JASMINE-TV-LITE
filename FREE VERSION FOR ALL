@@ -6,9 +6,9 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20191218/ourmid/pngtree-cricket-bat-stump-bails-ball-psd-png-image_2091269.jpg" group-title="INDIA VS AUSTRALIA CRICKET LIVE",SONY 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="INDIA VS AUSTRALIA CRICKET LIVE",SONY 
 https://bit.ly/3q93zFm
-#EXTINF:-1,TEN SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" , TEN SPORTS
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w651048037.m3u8
 
 
