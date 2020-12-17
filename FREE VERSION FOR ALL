@@ -6,10 +6,15 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="INDIA VS AUSTRALIA CRICKET LIVE",TEN 3
-https://bit.ly/37s1v3Y
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" , TEN 3
-https://bit.ly/37s1v3Y
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" group-title="INDIA VS AUSTRALIA CRICKET LIVE",TEN 3 SD
+https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1608258447~acl=%2f*~id=348c6637-fdc8-47e5-b395-96edcde64909~data=hdntl~hmac=3939fc056be20860ec8ba55c0e35e1ca9c692ba2b7398d97dee0524e78eca628/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" , TEN 3 HD
+https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1608258447~acl=%2f*~id=348c6637-fdc8-47e5-b395-96edcde64909~data=hdntl~hmac=3939fc056be20860ec8ba55c0e35e1ca9c692ba2b7398d97dee0524e78eca628/master_1300.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.png" , TEN 3 FHD
+https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1608258447~acl=%2f*~id=348c6637-fdc8-47e5-b395-96edcde64909~data=hdntl~hmac=3939fc056be20860ec8ba55c0e35e1ca9c692ba2b7398d97dee0524e78eca628/master_3500.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EIGHTEEN PLUS",JASMIN TV HD
