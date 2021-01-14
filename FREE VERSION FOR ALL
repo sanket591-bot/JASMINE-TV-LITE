@@ -27,7 +27,7 @@ http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 
 
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="XXX",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
@@ -501,7 +501,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 ,SONY MAX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index_dvr.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://bhoomikadigitalcable.in/wp-content/uploads/2020/08/Rishtey_Cineplex.png" ,Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 
 
 
